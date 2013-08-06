@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'Exo';
+    src: url('exo-bolditalic-webfont.svg#exobolditalic') format('svg');
+    font-weight: 700;
+    font-style: italic;
+}
+
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	text-align: center;
+}
+
+h1 {
+	font-family: "Exo", sans-serif;
+	font-weight: 700;
+	font-style: italic;
+}
